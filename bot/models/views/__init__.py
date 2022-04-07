@@ -1,0 +1,1 @@
+from .idea_view import IdeaView
